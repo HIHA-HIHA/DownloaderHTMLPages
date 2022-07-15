@@ -1,0 +1,8 @@
+C:\Users\HIHA\Desktop\Folders\Projects\DownloaderHTMLPages\DownloderPages\DownloderPages\obj\Debug\DownloderPages.csproj.AssemblyReference.cache
+C:\Users\HIHA\Desktop\Folders\Projects\DownloaderHTMLPages\DownloderPages\DownloderPages\obj\Debug\DownloderPages.csproj.SuggestedBindingRedirects.cache
+C:\Users\HIHA\Desktop\Folders\Projects\DownloaderHTMLPages\DownloderPages\DownloderPages\obj\Debug\DownloderPages.csproj.CoreCompileInputs.cache
+C:\Users\HIHA\Desktop\Folders\Projects\DownloaderHTMLPages\DownloderPages\DownloderPages\bin\Debug\DownloderPages.exe.config
+C:\Users\HIHA\Desktop\Folders\Projects\DownloaderHTMLPages\DownloderPages\DownloderPages\bin\Debug\DownloderPages.exe
+C:\Users\HIHA\Desktop\Folders\Projects\DownloaderHTMLPages\DownloderPages\DownloderPages\bin\Debug\DownloderPages.pdb
+C:\Users\HIHA\Desktop\Folders\Projects\DownloaderHTMLPages\DownloderPages\DownloderPages\obj\Debug\DownloderPages.exe
+C:\Users\HIHA\Desktop\Folders\Projects\DownloaderHTMLPages\DownloderPages\DownloderPages\obj\Debug\DownloderPages.pdb
